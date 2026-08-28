@@ -60,3 +60,21 @@ img {
 .grupo-maior {
     width: 508px;
 }
+
+.roxo-cima {
+    background-color: #e7b6ff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.itens-baixo {
+    background-color: #e7b6ff;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.centro {
+    background-color: #0ff;
+    height: 960px;
+}
